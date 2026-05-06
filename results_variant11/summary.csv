@@ -1,0 +1,4 @@
+case_no;image_index;source_url;size;entropy_before;entropy_after;euclidean_distance;l1_distance;cosine_similarity
+1;0;https://www.slavcorpora.ru/images/122ebb37-36b4-42fb-b776-cae0b0800a43/image-0.jpeg;1877x2314;6.3468257891;6.3325397991;0.0090628497;0.0312286044;0.9979453162
+2;5;https://www.slavcorpora.ru/images/378b9a3c-3dde-4e9a-8408-ad6f094c1d36/image-0.jpeg;3500x3770;5.1759664944;5.1054001477;0.0159215315;0.0411472616;0.9994788383
+3;10;https://www.slavcorpora.ru/images/5b4264c5-f7b8-49d3-b19d-6f63b17e43fc/image-3.jpeg;2400x1450;6.2030888320;6.1671308563;0.0083799726;0.0280125242;0.9994822657

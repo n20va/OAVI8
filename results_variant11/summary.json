@@ -1,0 +1,41 @@
+{
+  "variant": 11,
+  "method": "LBP (Local Binary Pattern)",
+  "feature": "H(LBP)",
+  "brightness_transform": "Выравнивание гистограммы яркости",
+  "cases": [
+    {
+      "case_no": 1,
+      "image_index": 0,
+      "source_url": "https://www.slavcorpora.ru/images/122ebb37-36b4-42fb-b776-cae0b0800a43/image-0.jpeg",
+      "size": "1877x2314",
+      "entropy_before": 6.34682579,
+      "entropy_after": 6.3325398,
+      "euclidean_distance": 0.00906285,
+      "l1_distance": 0.0312286,
+      "cosine_similarity": 0.99794532
+    },
+    {
+      "case_no": 2,
+      "image_index": 5,
+      "source_url": "https://www.slavcorpora.ru/images/378b9a3c-3dde-4e9a-8408-ad6f094c1d36/image-0.jpeg",
+      "size": "3500x3770",
+      "entropy_before": 5.17596649,
+      "entropy_after": 5.10540015,
+      "euclidean_distance": 0.01592153,
+      "l1_distance": 0.04114726,
+      "cosine_similarity": 0.99947884
+    },
+    {
+      "case_no": 3,
+      "image_index": 10,
+      "source_url": "https://www.slavcorpora.ru/images/5b4264c5-f7b8-49d3-b19d-6f63b17e43fc/image-3.jpeg",
+      "size": "2400x1450",
+      "entropy_before": 6.20308883,
+      "entropy_after": 6.16713086,
+      "euclidean_distance": 0.00837997,
+      "l1_distance": 0.02801252,
+      "cosine_similarity": 0.99948227
+    }
+  ]
+}
