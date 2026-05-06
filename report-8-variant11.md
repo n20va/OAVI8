@@ -6,13 +6,6 @@
 - Матрица/метод: LBP
 - Расчёт признаков: H(LBP)
 - Преобразование яркости: выравнивание гистограммы
-- Выборка: "Жесть", slavcorpora.ru
-
-| № | Индекс в выборке | Размер | Источник |
-|:-:|:----------------:|-------:|:---------|
-| 1 | 0 | 1877x2314 | `https://www.slavcorpora.ru/images/122ebb37-36b4-42fb-b776-cae0b0800a43/image-0.jpeg` |
-| 2 | 5 | 3500x3770 | `https://www.slavcorpora.ru/images/378b9a3c-3dde-4e9a-8408-ad6f094c1d36/image-0.jpeg` |
-| 3 | 10 | 2400x1450 | `https://www.slavcorpora.ru/images/5b4264c5-f7b8-49d3-b19d-6f63b17e43fc/image-3.jpeg` |
 
 ### Результаты обработки
 
